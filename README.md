@@ -14,6 +14,4 @@
 13. Elasticsearch
 14. ClickHouse
 15. Version Control System
-16. git
-17. rebase
-18. Разное
+16. Разное
