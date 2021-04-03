@@ -12,19 +12,19 @@
 
 **SOLID** (single responsibility, open-closed, Liskov substitution, interface segregation и dependency inversion) — мнемонический акроним для пяти основных принципов объектно-ориентированного программирования и проектирования.
 
-* **S** — Принцип единственной ответственности (The Single Responsibility Principle)
+* **S** — Принцип единственной ответственности (The Single Responsibility Principle):
 Существует лишь одна причина, приводящая к изменению класса.
 
-* **O** — Принцип открытости/закрытости (The Open Closed Principle)
+* **O** — Принцип открытости/закрытости (The Open Closed Principle):
 Программные сущности должны быть открыты для расширения, но закрыты для модификации.
 
-* **L** — Принцип подстановки Барбары Лисков (The Liskov Substitution Principle)
+* **L** — Принцип подстановки Барбары Лисков (The Liskov Substitution Principle):
 Объекты в программе должны быть заменяемыми на экземпляры их подтипов без изменения правильности выполнения программы
 
-* **I** — Принцип разделения интерфейса (The Interface Segregation Principle)
+* **I** — Принцип разделения интерфейса (The Interface Segregation Principle):
 Много интерфейсов, специально предназначенных для клиентов, лучше, чем один интерфейс общего назначения.
 
-* **D** — Принцип инверсии зависимостей (The Dependency Inversion Principle)
+* **D** — Принцип инверсии зависимостей (The Dependency Inversion Principle):
 Зависимость на Абстракциях. Нет зависимости на что-то конкретное.
 
 ## DRY
