@@ -1,3 +1,5 @@
+↩ [Оглавление](https://github.com/lutov/interview/blob/main/README.md)
+
 # PHP
 
 ## Достоинства и недостатки PHP 7
