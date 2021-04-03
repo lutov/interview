@@ -1,4 +1,4 @@
-↩ [Оглавление](https://github.com/lutov/interview/blob/main/README.md)
+← [Оглавление](https://github.com/lutov/interview/blob/main/README.md)
 
 # PHP
 
